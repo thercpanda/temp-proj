@@ -1,0 +1,13 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test-proj",
+  "author": "thercpanda",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.82",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-sass": "^2.04"
+  }
+}
